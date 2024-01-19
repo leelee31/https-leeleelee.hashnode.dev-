@@ -102,7 +102,7 @@ tags: infrastructure
         * 다만 사용자에게 에러를 반환하는 것이 전부라서 근본적인 해결책은 아니므로 시스템 전체 허용량을 늘리는 접근법을 같이 사용할 필요가 있다.
             
 
-## CPU 병목 현상
+## CPU 병목
 
 * CPU 사용률이 높다고 해서 나쁜 것도 아니고, 반대로 사용률이 낮다고 해서 좋은 것도 아니다.
     
@@ -186,7 +186,7 @@ tags: infrastructure
     * 병렬화 검토는 인프라만으로 한계가 있어 애플리케이션 개발자의 협조가 필요하다.
         
 
-## CPU 사용률이 오르지 않는다
+### CPU 사용률이 오르지 않는다
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1705665339617/7fcbec1a-9557-40f5-a898-b1131fe49332.png align="center")
 
