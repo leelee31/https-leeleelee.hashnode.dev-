@@ -1,5 +1,5 @@
 ---
-title: "si를 떠나고 그 후의 이야기"
+title: "Si를 떠나고 그 후의 이야기"
 datePublished: Wed May 01 2024 12:42:11 GMT+0000 (Coordinated Universal Time)
 cuid: clvnt4bw300050al54yx208ck
 slug: si
