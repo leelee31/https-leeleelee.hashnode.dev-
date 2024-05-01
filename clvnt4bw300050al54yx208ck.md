@@ -80,7 +80,9 @@ SI에선 부족한 사람이 될 기회가 없었다.
 
 ![세하 on X: "정대만 일본 성우 인터뷰(https://t.co/BMnmlBSCMc ...](https://pbs.twimg.com/media/FnPCgVCaMAIqp62.jpg align="center")
 
-# 새로 배운 것들
+
+
+# 새로 배운 것들
 
 ### 테스트코드 짜는 걸 즐기게 되었다
 
